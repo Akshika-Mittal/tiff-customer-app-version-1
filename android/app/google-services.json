@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267429879882",
+    "project_id": "tiff-customer-app",
+    "storage_bucket": "tiff-customer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267429879882:android:6f807433124f2454ff06b3",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp4C1qXYKCgI2bkKTrdcI6ZgiYzfBHQrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
